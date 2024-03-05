@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "152102473084",
+    "project_id": "authentication-70a73",
+    "storage_bucket": "authentication-70a73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152102473084:android:138ab8fc40c1a438df28f9",
+        "android_client_info": {
+          "package_name": "com.example.coffeeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxyze7nQIx95nsMUFFd6X8A8T1SM8dGwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
